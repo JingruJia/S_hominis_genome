@@ -1,0 +1,289 @@
+ID   Genome standard; DNA; PRO; 1234 BP.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   misc_feature    57
+FT                   /label=group_1119
+FT                   /locus_tag=group_1119
+FT                   /colour=3
+FT   misc_feature    6
+FT                   /label=group_13
+FT                   /locus_tag=group_13
+FT                   /colour=4
+FT   feature         3
+FT                   /label=arcB
+FT                   /locus_tag=arcB
+FT                   /colour=6
+FT   misc_feature    58
+FT                   /label=group_1116
+FT                   /locus_tag=group_1116
+FT                   /colour=3
+FT   misc_feature    39
+FT                   /label=group_541
+FT                   /locus_tag=group_541
+FT                   /colour=5
+FT   feature         2
+FT                   /label=isaB_1
+FT                   /locus_tag=isaB_1
+FT                   /colour=3
+FT   misc_feature    30
+FT                   /label=group_550
+FT                   /locus_tag=group_550
+FT                   /colour=5
+FT   misc_feature    35
+FT                   /label=group_374
+FT                   /locus_tag=group_374
+FT                   /colour=5
+FT   misc_feature    52
+FT                   /label=group_106
+FT                   /locus_tag=group_106
+FT                   /colour=2
+FT   feature         16
+FT                   /label=yciC_2
+FT                   /locus_tag=yciC_2
+FT                   /colour=3
+FT   misc_feature    31
+FT                   /label=group_754
+FT                   /locus_tag=group_754
+FT                   /colour=5
+FT   misc_feature    26
+FT                   /label=group_546
+FT                   /locus_tag=group_546
+FT                   /colour=4
+FT   misc_feature    51
+FT                   /label=group_569
+FT                   /locus_tag=group_569
+FT                   /colour=4
+FT   misc_feature    4
+FT                   /label=group_282
+FT                   /locus_tag=group_282
+FT                   /colour=6
+FT   feature         8
+FT                   /label=dtpA
+FT                   /locus_tag=dtpA
+FT                   /colour=2
+FT   misc_feature    32
+FT                   /label=group_755
+FT                   /locus_tag=group_755
+FT                   /colour=6
+FT   misc_feature    45
+FT                   /label=group_716
+FT                   /locus_tag=group_716
+FT                   /colour=3
+FT   misc_feature    40
+FT                   /label=group_171
+FT                   /locus_tag=group_171
+FT                   /colour=2
+FT   misc_feature    28
+FT                   /label=group_549
+FT                   /locus_tag=group_549
+FT                   /colour=5
+FT   feature         21
+FT                   /label=serA_2
+FT                   /locus_tag=serA_2
+FT                   /colour=3
+FT   misc_feature    37
+FT                   /label=group_542
+FT                   /locus_tag=group_542
+FT                   /colour=5
+FT   misc_feature    15
+FT                   /label=group_243
+FT                   /locus_tag=group_243
+FT                   /colour=3
+FT   feature         36
+FT                   /label=butA
+FT                   /locus_tag=butA
+FT                   /colour=5
+FT   feature         33
+FT                   /label=butA_2
+FT                   /locus_tag=butA_2
+FT                   /colour=5
+FT   misc_feature    48
+FT                   /label=group_690
+FT                   /locus_tag=group_690
+FT                   /colour=4
+FT   feature         12
+FT                   /label=lacE_1
+FT                   /locus_tag=lacE_1
+FT                   /colour=6
+FT   misc_feature    54
+FT                   /label=group_37
+FT                   /locus_tag=group_37
+FT                   /colour=2
+FT   misc_feature    27
+FT                   /label=group_551
+FT                   /locus_tag=group_551
+FT                   /colour=5
+FT   feature         47
+FT                   /label=betL
+FT                   /locus_tag=betL
+FT                   /colour=4
+FT   feature         46
+FT                   /label=caiT
+FT                   /locus_tag=caiT
+FT                   /colour=4
+FT   misc_feature    44
+FT                   /label=group_715
+FT                   /locus_tag=group_715
+FT                   /colour=3
+FT   misc_feature    13
+FT                   /label=group_417
+FT                   /locus_tag=group_417
+FT                   /colour=6
+FT   misc_feature    56
+FT                   /label=group_63
+FT                   /locus_tag=group_63
+FT                   /colour=2
+FT   feature         14
+FT                   /label=lacE_2
+FT                   /locus_tag=lacE_2
+FT                   /colour=6
+FT   feature         38
+FT                   /label=oppC
+FT                   /locus_tag=oppC
+FT                   /colour=5
+FT   misc_feature    55
+FT                   /label=group_1085
+FT                   /locus_tag=group_1085
+FT                   /colour=2
+FT   feature         25
+FT                   /label=zupT
+FT                   /locus_tag=zupT
+FT                   /colour=4
+FT   misc_feature    49
+FT                   /label=group_5916
+FT                   /locus_tag=group_5916
+FT                   /colour=7
+FT   misc_feature    60
+FT                   /label=group_1118
+FT                   /locus_tag=group_1118
+FT                   /colour=3
+FT   misc_feature    50
+FT                   /label=group_39
+FT                   /locus_tag=group_39
+FT                   /colour=7
+FT   feature         9
+FT                   /label=dtpT
+FT                   /locus_tag=dtpT
+FT                   /colour=2
+FT   feature         11
+FT                   /label=lacE
+FT                   /locus_tag=lacE
+FT                   /colour=6
+FT   feature         19
+FT                   /label=rclA
+FT                   /locus_tag=rclA
+FT                   /colour=5
+FT   misc_feature    17
+FT                   /label=group_244
+FT                   /locus_tag=group_244
+FT                   /colour=3
+FT   feature         34
+FT                   /label=butA_1
+FT                   /locus_tag=butA_1
+FT                   /colour=5
+FT   feature         42
+FT                   /label=efeN
+FT                   /locus_tag=efeN
+FT                   /colour=2
+FT   misc_feature    18
+FT                   /label=group_204
+FT                   /locus_tag=group_204
+FT                   /colour=5
+FT   misc_feature    24
+FT                   /label=group_547
+FT                   /locus_tag=group_547
+FT                   /colour=4
+FT   misc_feature    23
+FT                   /label=group_746
+FT                   /locus_tag=group_746
+FT                   /colour=3
+FT   feature         20
+FT                   /label=rclA_1
+FT                   /locus_tag=rclA_1
+FT                   /colour=5
+FT   misc_feature    5
+FT                   /label=group_281
+FT                   /locus_tag=group_281
+FT                   /colour=6
+FT   feature         41
+FT                   /label=efeN_2
+FT                   /locus_tag=efeN_2
+FT                   /colour=2
+FT   feature         43
+FT                   /label=opuD_3
+FT                   /locus_tag=opuD_3
+FT                   /colour=3
+FT   misc_feature    29
+FT                   /label=group_552
+FT                   /locus_tag=group_552
+FT                   /colour=5
+FT   misc_feature    53
+FT                   /label=group_108
+FT                   /locus_tag=group_108
+FT                   /colour=2
+FT   misc_feature    7
+FT                   /label=group_447
+FT                   /locus_tag=group_447
+FT                   /colour=2
+FT   misc_feature    59
+FT                   /label=group_1117
+FT                   /locus_tag=group_1117
+FT                   /colour=3
+FT   misc_feature    1
+FT                   /label=group_198
+FT                   /locus_tag=group_198
+FT                   /colour=3
+FT   feature         10
+FT                   /label=dtpT_2
+FT                   /locus_tag=dtpT_2
+FT                   /colour=2
+FT   feature         22
+FT                   /label=serA
+FT                   /locus_tag=serA
+FT                   /colour=3
+FT   feature         49..50
+FT                   /colour=7
+FT   feature         6
+FT                   /colour=4
+FT   feature         46..48
+FT                   /colour=4
+FT   feature         1..2
+FT                   /colour=3
+FT   feature         27..30
+FT                   /colour=5
+FT   feature         24..26
+FT                   /colour=4
+FT   feature         18..20
+FT                   /colour=5
+FT   feature         3..5
+FT                   /colour=6
+FT   feature         32
+FT                   /colour=6
+FT   feature         43..45
+FT                   /colour=3
+FT   feature         21..23
+FT                   /colour=3
+FT   feature         15..17
+FT                   /colour=3
+FT   feature         11..14
+FT                   /colour=6
+FT   feature         54..56
+FT                   /colour=2
+FT   feature         33..36
+FT                   /colour=5
+FT   feature         40..42
+FT                   /colour=2
+FT   feature         57..60
+FT                   /colour=3
+FT   feature         51
+FT                   /colour=4
+FT   feature         37..39
+FT                   /colour=5
+FT   feature         31
+FT                   /colour=5
+FT   feature         52..53
+FT                   /colour=2
+XX
+SQ   Sequence 1234 BP; 789 A; 1717 C; 1693 G; 691 T; 0 other;
+//

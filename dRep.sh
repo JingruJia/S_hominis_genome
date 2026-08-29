@@ -1,0 +1,1 @@
+dRep dereplicate /path/to/drep_output -g /path/to/genome_fna/*.fna -sa 0.999 -nc 0.30 -p 30 -comp 95 -con 5 -pa 0.95
