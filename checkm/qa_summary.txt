@@ -1,0 +1,126 @@
+[2026-04-15 13:18:00] INFO: CheckM v1.2.5
+[2026-04-15 13:18:00] INFO: checkm qa /data/work/public_genome/genome/checkm/lineage.ms /data/work/public_genome/genome/checkm/
+[2026-04-15 13:18:00] INFO: CheckM data: /data/work/db/checkm_data
+[2026-04-15 13:18:00] INFO: [CheckM - qa] Tabulating genome statistics.
+[2026-04-15 13:18:00] INFO: Calculating AAI between multi-copy marker genes.
+[2026-04-15 13:18:00] INFO: Reading HMM info from file.
+[2026-04-15 13:18:06] INFO: Parsing HMM hits to marker genes:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Bin Id                          Marker lineage         # genomes   # markers   # marker sets   0    1    2    3   4   5+   Completeness   Contamination   Strain heterogeneity  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  GCF_037694985.1_genomic   g__Staphylococcus (UID298)       56         805           176        1   776   28   0   0   0       99.81            3.35              17.86          
+  GCF_025143445.1_genomic   g__Staphylococcus (UID298)       56         805           176        1   799   5    0   0   0       99.81            1.08               0.00          
+  GCF_964211265.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_052950835.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   800   3    0   0   0       99.62            1.22               0.00          
+  GCF_047653525.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.85               0.00          
+  GCF_047653515.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   800   3    0   0   0       99.62            0.88               0.00          
+  GCF_040947645.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   799   4    0   0   0       99.62            0.88               0.00          
+  GCF_040947605.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   799   4    0   0   0       99.62            0.88               0.00          
+  GCF_040947225.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.07               0.00          
+  GCF_040947125.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.05               0.00          
+  GCF_040947025.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.71               0.00          
+  GCF_037700375.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   788   15   0   0   0       99.62            2.05              53.33          
+  GCF_037700315.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   782   21   0   0   0       99.62            3.19              28.57          
+  GCF_037700295.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   784   17   2   0   0       99.62            3.66              21.74          
+  GCF_037700155.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   785   18   0   0   0       99.62            2.14              22.22          
+  GCF_037700135.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   774   29   0   0   0       99.62            4.06              37.93          
+  GCF_037695175.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   793   10   0   0   0       99.62            0.93              10.00          
+  GCF_036420075.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_036419895.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_031729015.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_031728895.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   799   4    0   0   0       99.62            0.92               0.00          
+  GCF_031728745.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   800   3    0   0   0       99.62            0.85               0.00          
+  GCF_031728735.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_031728715.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_031728695.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_031728675.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_031728555.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   800   3    0   0   0       99.62            0.85               0.00          
+  GCF_031728515.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_031728495.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.28               0.00          
+  GCF_031728475.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_031728455.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.18               0.00          
+  GCF_031728415.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.14               0.00          
+  GCF_031728335.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_031728315.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_031728295.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_031728275.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_031728235.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   799   4    0   0   0       99.62            1.75               0.00          
+  GCF_031728155.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.71               0.00          
+  GCF_031728115.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   800   3    0   0   0       99.62            0.85               0.00          
+  GCF_031728075.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_031727535.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_031727355.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   0    1   0   0       99.62            1.14              33.33          
+  GCF_031727275.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.06               0.00          
+  GCF_031727075.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   799   4    0   0   0       99.62            1.42               0.00          
+  GCF_031727055.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_029926915.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   800   3    0   0   0       99.62            1.19               0.00          
+  GCF_029926905.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   799   4    0   0   0       99.62            1.21               0.00          
+  GCF_029926865.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   799   4    0   0   0       99.62            1.21               0.00          
+  GCF_025143615.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.07               0.00          
+  GCF_025143205.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_022690425.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_022690385.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   800   3    0   0   0       99.62            0.64              33.33          
+  GCF_022690345.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.71               0.00          
+  GCF_022690325.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   798   5    0   0   0       99.62            1.06               0.00          
+  GCF_022690275.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_022690265.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   800   3    0   0   0       99.62            0.85               0.00          
+  GCF_022690245.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_022690225.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_022690205.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.02               0.00          
+  GCF_022690185.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_022690165.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   800   3    0   0   0       99.62            0.85               0.00          
+  GCF_022690145.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   800   3    0   0   0       99.62            0.85               0.00          
+  GCF_022690115.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.68               0.00          
+  GCF_022690105.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_022690065.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   800   3    0   0   0       99.62            0.85               0.00          
+  GCF_022690025.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_022689975.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.63               0.00          
+  GCF_022689945.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_022689905.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_022689825.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.63               0.00          
+  GCF_022689785.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.28               0.00          
+  GCF_022689775.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.11               0.00          
+  GCF_022689765.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.63               0.00          
+  GCF_022689745.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   799   4    0   0   0       99.62            1.42               0.00          
+  GCF_022689725.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            1.14               0.00          
+  GCF_022689705.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   798   5    0   0   0       99.62            0.69               0.00          
+  GCF_022689675.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   799   4    0   0   0       99.62            1.42               0.00          
+  GCF_022689665.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            1.14               0.00          
+  GCF_022689645.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   800   3    0   0   0       99.62            0.31               0.00          
+  GCF_022689615.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   798   5    0   0   0       99.62            1.56              20.00          
+  GCF_022689575.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            1.14               0.00          
+  GCF_022689565.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   0    1   0   0       99.62            1.14              33.33          
+  GCF_017315645.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_017315625.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   801   2    0   0   0       99.62            0.59               0.00          
+  GCF_015274675.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_013267575.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   803   0    0   0   0       99.62            0.00               0.00          
+  GCF_004329075.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   732   70   1   0   0       99.62            7.89              19.18          
+  GCF_000269685.1_genomic   g__Staphylococcus (UID298)       56         805           176        2   802   1    0   0   0       99.62            0.57               0.00          
+  GCF_037700455.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   788   14   0   0   0       99.56            1.54              28.57          
+  GCF_031631055.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   800   2    0   0   0       99.55            0.65               0.00          
+  GCF_031728095.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   801   1    0   0   0       99.54            0.07               0.00          
+  GCF_022689925.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   799   3    0   0   0       99.54            0.85               0.00          
+  GCF_900458635.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   798   4    0   0   0       99.48            0.59              50.00          
+  GCF_022689965.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   801   0    1   0   0       99.48            1.14              33.33          
+  GCF_002901845.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   800   2    0   0   0       99.48            0.17               0.00          
+  GCF_040947205.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   801   1    0   0   0       99.34            0.57               0.00          
+  GCF_040947065.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   799   3    0   0   0       99.34            1.22               0.00          
+  GCF_031728795.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   798   4    0   0   0       99.34            0.92               0.00          
+  GCF_031727255.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   798   4    0   0   0       99.34            0.92               0.00          
+  GCF_031727235.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   801   1    0   0   0       99.34            0.02               0.00          
+  GCF_022690375.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   802   0    0   0   0       99.34            0.00               0.00          
+  GCF_022690295.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   798   4    0   0   0       99.34            0.92               0.00          
+  GCF_022690045.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   801   1    0   0   0       99.34            0.07               0.00          
+  GCF_022690005.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   801   1    0   0   0       99.34            0.07               0.00          
+  GCF_022689855.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   801   1    0   0   0       99.34            0.02               0.00          
+  GCF_015274655.1_genomic   g__Staphylococcus (UID298)       56         805           176        4   800   1    0   0   0       99.24            0.57               0.00          
+  GCF_015274585.1_genomic   g__Staphylococcus (UID298)       56         805           176        4   800   1    0   0   0       99.24            0.57               0.00          
+  GCF_015274535.1_genomic   g__Staphylococcus (UID298)       56         805           176        4   800   1    0   0   0       99.24            0.57               0.00          
+  GCF_031728835.1_genomic   g__Staphylococcus (UID298)       56         805           176        5   796   4    0   0   0       99.20            0.92               0.00          
+  GCF_037700235.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   755   47   0   0   0       99.05            6.01              36.17          
+  GCF_031727455.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   799   3    0   0   0       99.05            0.85               0.00          
+  GCF_022689845.1_genomic   g__Staphylococcus (UID298)       56         805           176        3   800   2    0   0   0       99.05            1.14              50.00          
+  GCF_022690085.1_genomic   g__Staphylococcus (UID298)       56         805           176        4   798   3    0   0   0       98.98            0.85               0.00          
+  GCF_037695095.1_genomic   g__Staphylococcus (UID298)       56         805           176        9   752   44   0   0   0       97.97            6.75              31.82          
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2026-04-15 13:18:29] INFO: { Current stage: 0:00:28.367 || Total: 0:00:28.367 }
