@@ -1,0 +1,36 @@
+[2026-05-27 18:47:51] INFO: CheckM v1.2.5
+[2026-05-27 18:47:51] INFO: checkm lineage_wf /data/work/s_hominis/0.4resultdata/drep999/data/prodigal/ /data/work/s_hominis/0.4resultdata/drep999/data/checkM/checkM_outdir/ -f /data/work/s_hominis/0.4resultdata/drep999/data/checkM/checkM_outdir//results.tsv --tab_table -t 30 --pplacer_threads 30 -g -x faa
+[2026-05-27 18:47:51] INFO: CheckM data: /data/work/db/checkm_data
+[2026-05-27 18:47:51] INFO: [CheckM - tree] Placing bins in reference genome tree.
+[2026-05-27 18:47:52] INFO: Identifying marker genes in 111 bins with 30 threads:
+[2026-05-27 18:47:57] INFO: Saving HMM info to file.
+[2026-05-27 18:47:57] INFO: Calculating genome statistics for 111 bins with 30 threads:
+[2026-05-27 18:47:57] INFO: Extracting marker genes to align.
+[2026-05-27 18:47:57] INFO: Parsing HMM hits to marker genes:
+[2026-05-27 18:48:03] INFO: Extracting 43 HMMs with 30 threads:
+[2026-05-27 18:48:03] INFO: Aligning 43 marker genes with 30 threads:
+[2026-05-27 18:48:09] INFO: Reading marker alignment files.
+[2026-05-27 18:48:09] INFO: Concatenating alignments.
+[2026-05-27 18:48:09] INFO: Placing 111 bins into the genome tree with pplacer (be patient).
+[2026-05-27 18:53:51] INFO: { Current stage: 0:05:59.934 || Total: 0:05:59.934 }
+[2026-05-27 18:53:51] INFO: [CheckM - lineage_set] Inferring lineage-specific marker sets.
+[2026-05-27 18:53:51] INFO: Reading HMM info from file.
+[2026-05-27 18:53:51] INFO: Parsing HMM hits to marker genes:
+[2026-05-27 18:53:57] INFO: Determining marker sets for each genome bin.
+[2026-05-27 18:54:20] INFO: Marker set written to: /data/work/s_hominis/0.4resultdata/drep999/data/checkM/checkM_outdir/lineage.ms
+[2026-05-27 18:54:20] INFO: { Current stage: 0:00:29.322 || Total: 0:06:29.256 }
+[2026-05-27 18:54:20] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2026-05-27 18:54:21] INFO: Identifying marker genes in 111 bins with 30 threads:
+[2026-05-27 19:06:53] INFO: Saving HMM info to file.
+[2026-05-27 19:07:03] INFO: { Current stage: 0:12:42.534 || Total: 0:19:11.791 }
+[2026-05-27 19:07:03] INFO: Parsing HMM hits to marker genes:
+[2026-05-27 19:07:44] INFO: Aligning marker genes with multiple hits in a single bin:
+[2026-05-27 19:07:53] INFO: { Current stage: 0:00:50.522 || Total: 0:20:02.314 }
+[2026-05-27 19:07:53] INFO: Calculating genome statistics for 111 bins with 30 threads:
+[2026-05-27 19:07:54] INFO: { Current stage: 0:00:00.752 || Total: 0:20:03.066 }
+[2026-05-27 19:07:55] INFO: [CheckM - qa] Tabulating genome statistics.
+[2026-05-27 19:07:55] INFO: Calculating AAI between multi-copy marker genes.
+[2026-05-27 19:07:55] INFO: Reading HMM info from file.
+[2026-05-27 19:08:05] INFO: Parsing HMM hits to marker genes:
+[2026-05-27 19:08:36] INFO: QA information written to: /data/work/s_hominis/0.4resultdata/drep999/data/checkM/checkM_outdir//results.tsv
+[2026-05-27 19:08:36] INFO: { Current stage: 0:00:42.291 || Total: 0:20:45.358 }
